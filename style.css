@@ -752,7 +752,7 @@ body {
 .currency-select-btn.active {
     background-color: var(--currency-select-active-bg);
     border-color: var(--icon-green);
-    color: var(--currency-select-active-text);
+    color: var(--text-primary);
 }
 
 
